@@ -1,8 +1,8 @@
 ![github-header-image (1)](https://github.com/babarhussayn/babarhussayn/assets/155708156/a30f8d0a-3ec5-4631-b126-c4bc1d6ed36d)
 
 
-<h1 align="center">Hi 👋, I'm Babar Hussain</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
+
+<h2 align="center">A passionate MERN Stack Developer from Pakistan</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babarhussayn&label=Profile%20views&color=0e75b6&style=flat" alt="babarhussayn" /> </p>
 
