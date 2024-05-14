@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babarhussayn" alt="babarhussayn" /></a> </p>
 
-- 🔭 I’m currently working on [Abraham Crm](https://www.crm.abrahamaccountants.co.uk/)
+- 🔭 I’m currently working on [Humai Crm And Sahara IT](https://www.crm.abrahamaccountants.co.uk/)
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on [Abraham](https://www.crm.abrahamaccountants.co.uk/)
+- 👯 I’m looking to collaborate on [Humai Crm](https://www.crm.abrahamaccountants.co.uk/)
 
 - 💬 Ask me about **Mern**
 
