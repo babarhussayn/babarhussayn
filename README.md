@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babarhussayn" alt="babarhussayn" /></a> </p>
 
-- 🔭 I’m currently working on [ Sahara IT][(https://sahara-it-custom.humaiwebs.co.uk/)]
+- 🔭 I’m currently working on [ Sahara IT](https://sahara-it-custom.humaiwebs.co.uk/)
 
 - 🌱 I’m currently learning **NextJs**
 
