@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [ Sahara IT](https://sahara-it-custom.humaiwebs.co.uk/)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs** and **NestJs**
 
 - 👯 I’m looking to collaborate on [Humai Crm](https://www.crm.abrahamaccountants.co.uk/)
 
